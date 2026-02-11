@@ -5,13 +5,13 @@ This project demonstrates parameter-efficient fine-tuning of GPT-2 using LoRA (P
 
 ---
 
-## 🔎 Full Execution Notebook
+##  Full Execution Notebook
 
-⚠️ Note: Outputs were removed from the GitHub notebook to ensure compatibility with GitHub rendering.
+Note: Outputs were removed from the GitHub notebook to ensure compatibility with GitHub rendering.
 
 To view the **complete executed notebook with outputs, training logs, and results**, please visit:
 
-👉 **Colab Link:**  
+**Colab Link:**  
 https://colab.research.google.com/drive/1Ql2CWIoQslneqnkDMHU4JWgXYgXsxSAB?usp=sharing
 
 ---
